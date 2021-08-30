@@ -1,0 +1,15 @@
+artifact_uri: file:///home/garvit/Documents/work_area/Anaconda_Workspace/misc/MLOps%20with%20MLFlow/mlruns/2/8f2f787c20824bcaac43d64961215f04/artifacts
+end_time: 1629698040672
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: deleted
+name: ''
+run_id: 8f2f787c20824bcaac43d64961215f04
+run_uuid: 8f2f787c20824bcaac43d64961215f04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1629698040142
+status: 3
+tags: []
+user_id: garvit
